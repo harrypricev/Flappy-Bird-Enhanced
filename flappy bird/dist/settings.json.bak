@@ -1,0 +1,27 @@
+{
+  "music": true,
+  "music_volume": 0.28,
+  "sfx": true,
+  "sfx_volume": 0.85,
+  "screenshake": true,
+  "particles": true,
+  "vignette": false,
+  "show_fps": false,
+  "hotkey_flap": "space",
+  "hotkey_cosmetics": "c",
+  "hotkey_settings": "o",
+  "hotkey_high_scores": "h",
+  "hotkey_stats": "s",
+  "hotkey_extreme": "e",
+  "hotkey_back": "escape",
+  "selected_bird_key": "yellow",
+  "selected_bg": "day",
+  "selected_trail_key": "none",
+  "selected_accessories": {
+    "hat": "none",
+    "neckwear": "none",
+    "face": "none",
+    "wings": "classic",
+    "eyes": "classic"
+  }
+}

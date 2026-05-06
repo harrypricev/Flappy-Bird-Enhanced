@@ -1,0 +1,16 @@
+{
+  "games_played": 52,
+  "normal_games_played": 44,
+  "extreme_games_played": 8,
+  "best_score": 81,
+  "best_normal_score": 81,
+  "best_extreme_score": 68,
+  "total_score": 539,
+  "total_flaps": 2083,
+  "longest_run_sec": 128.68664455413818,
+  "total_run_time_sec": 880.4647166728973,
+  "powerups_collected": 81,
+  "coins_earned": 7093,
+  "coins_spent": 280,
+  "items_bought": 41
+}
